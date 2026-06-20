@@ -1,0 +1,14 @@
+正在测试 stride=64 (iterations=1562500) ...
+stride=64, avg=2730025 ns, min=2602325 ns, max=2872323 ns, iterations=1562500
+
+ Performance counter stats for './src/cache_line_test 64':
+
+                 0      L1-dcache-load-misses                                       
+   <not supported>      LLC-load-misses                                             
+
+       0.156162187 seconds time elapsed
+
+       0.130318000 seconds user
+       0.023694000 seconds sys
+
+

@@ -1,0 +1,14 @@
+正在测试 stride=4 (iterations=25000000) ...
+stride=4, avg=40804572 ns, min=40004975 ns, max=42351899 ns, iterations=25000000
+
+ Performance counter stats for './src/cache_line_test 4':
+
+                 0      L1-dcache-load-misses                                       
+   <not supported>      LLC-load-misses                                             
+
+       0.299754559 seconds time elapsed
+
+       0.282936000 seconds user
+       0.015940000 seconds sys
+
+
