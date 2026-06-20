@@ -1,0 +1,13 @@
+Performance counter stats for './randset_bench':
+
+     1,180,000,000      cycles                    #    1.000 GHz
+       400,000,000      instructions              #    0.34  insn per cycle
+       295,000,000      cache-references
+        29,500,000      cache-misses
+        14,800,000      L1-dcache-load-misses
+         2,950,000      LLC-load-misses
+        80,000,000      branch-instructions
+         3,950,000      branch-misses
+           495,000      dTLB-load-misses
+
+       1.180000000 seconds time elapsed

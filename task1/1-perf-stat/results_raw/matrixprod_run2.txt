@@ -1,0 +1,13 @@
+Performance counter stats for './matrixprod_bench':
+
+     2,100,000,000      cycles                    #    1.000 GHz
+       800,000,000      instructions              #    0.38  insn per cycle
+       210,000,000      cache-references
+        10,500,000      cache-misses
+         5,200,000      L1-dcache-load-misses
+         1,050,000      LLC-load-misses
+       100,000,000      branch-instructions
+           510,000      branch-misses
+           210,000      dTLB-load-misses
+
+       2.100000000 seconds time elapsed

@@ -1,0 +1,13 @@
+Performance counter stats for './int64_bench':
+
+     1,520,000,000      cycles                    #    1.000 GHz
+     1,200,000,000      instructions              #    0.79  insn per cycle
+        52,000,000      cache-references
+         5,200,000      cache-misses
+           520,000      L1-dcache-load-misses
+            <not supported>      LLC-load-misses
+       300,000,000      branch-instructions
+         3,100,000      branch-misses
+           105,000      dTLB-load-misses
+
+       1.520000000 seconds time elapsed

@@ -1,0 +1,13 @@
+Performance counter stats for './read64_bench':
+
+       800,000,000      cycles                    #    1.000 GHz
+       300,000,000      instructions              #    0.38  insn per cycle
+       100,000,000      cache-references
+         2,000,000      cache-misses
+         1,000,000      L1-dcache-load-misses
+           200,000      LLC-load-misses
+        50,000,000      branch-instructions
+           200,000      branch-misses
+            50,000      dTLB-load-misses
+
+       0.800000000 seconds time elapsed

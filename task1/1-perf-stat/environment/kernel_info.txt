@@ -1,0 +1,3 @@
+# Captured at: 2026-06-20 06:00:39
+
+Linux li 5.15.0-119-generic #129-Ubuntu SMP Fri Aug 2 19:25:20 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux

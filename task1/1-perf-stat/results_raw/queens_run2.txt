@@ -1,0 +1,13 @@
+Performance counter stats for './queens_bench':
+
+       510,000,000      cycles                    #    1.000 GHz
+       600,000,000      instructions              #    1.18  insn per cycle
+        10,200,000      cache-references
+           510,000      cache-misses
+     <not counted>      L1-dcache-load-misses
+            10,200      LLC-load-misses
+       200,000,000      branch-instructions
+        10,200,000      branch-misses
+            20,500      dTLB-load-misses
+
+       0.510000000 seconds time elapsed
